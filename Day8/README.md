@@ -10,6 +10,10 @@
 
 ## Initialize the Terraform repo
 
+```
+Set-Alias -Name tf -Value terraform
+```
+
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/ed1c07c6-8ce0-40cb-bae2-49e981b163d0)
 
 ## Run Terraform plan
